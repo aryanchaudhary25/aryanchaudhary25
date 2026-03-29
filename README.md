@@ -1,4 +1,4 @@
-# Welcome to my GitHub profile!
+# Hey there! Welcome to my GitHub 👋
 I’m developing my skills in data analytics by working on real world projects, primarily using Power BI to create interactive dashboards and insights.<br><br>With a foundation in SQL, Python, and Excel, I focus on data cleaning, analysis, and visualization. <br>I’m also learning Microsoft Fabric and Microsoft Azure to expand my understanding of end to end data workflows and cloud based analytics.<br><br>Tools & Technologies: SQL | Power BI | Excel | Microsoft Fabric | Microsoft Azure | Python
 
 # 💻 Tech Stack:
